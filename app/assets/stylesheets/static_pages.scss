@@ -1,0 +1,55 @@
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.title{
+       text-align: left;
+       text-decoration-line: none;
+       color:black;
+    }
+.top{   display: flex;
+        text-decoration: none;}
+.title_right{
+    margin-top: 5%;
+    text-decoration: none;
+    text-align: right;
+    margin-left: 40%;
+}
+.body{
+    width: 95%;
+    text-align: center;
+    margin:auto;
+}
+.button   { 
+    width:fit-content;
+    margin:auto;
+    background-color: #004A54;
+    width: 25%;
+    height: 60%;
+    margin-top:5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: solid 1px;
+    font-size: large;
+    border-radius: 10%;
+    color:whitesmoke;
+}
+.button  p{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    margin-top: 20%;
+}
+.butten_text{
+    text-decoration: none;
+    color: white;
+}
+.footer_text{
+    margin-bottom: 10%;
+    margin-right: 30%;}
+.footer_text2{
+    margin-right: 5%;}
+.top_text{
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
